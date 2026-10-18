@@ -1,12 +1,12 @@
-\# ☕ TNS Spring Projects
+☕ TNS Spring Projects
 
 
 
-Welcome to my \*\*TNS Spring Projects\*\* repository! This repository contains Java programming and Spring Framework projects developed as part of my learning journey.
+Welcome to my TNS Spring Projects repository! This repository contains Java programming and Spring Framework projects developed as part of my learning journey.
 
 
 
-\## 📚 About
+ 📚 About
 
 
 
@@ -14,7 +14,7 @@ The goal of this repository is to practice Java development, understand Spring c
 
 
 
-\## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 
 
@@ -28,7 +28,7 @@ The goal of this repository is to practice Java development, understand Spring c
 
 
 
-\## 📂 Projects
+ 📂 Projects
 
 
 
@@ -36,7 +36,7 @@ This repository includes project folders, Java source files, and related configu
 
 
 
-\## 🎯 Learning Objectives
+🎯 Learning Objectives
 
 
 
@@ -50,7 +50,7 @@ This repository includes project folders, Java source files, and related configu
 
 
 
-\## 🚀 Getting Started
+🚀 Getting Started
 
 
 
@@ -64,15 +64,15 @@ This repository includes project folders, Java source files, and related configu
 
 
 
-\## 👩‍💻 Author
+👩‍💻 Author
 
 
 
-\*\*Asra Fathima\*\*
+Asra Fathima
 
 
 
-GitHub: \[@AsraFathima38](https://github.com/AsraFathima38)
+GitHub: https://github.com/AsraFathima38
 
 
 
